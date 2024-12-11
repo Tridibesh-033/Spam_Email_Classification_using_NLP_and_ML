@@ -1,0 +1,62 @@
+/* Background styling */
+[data-testid="stAppViewContainer"] {
+    background-color:#9EDF9C; 
+    font-family: 'Arial', sans-serif;
+}
+
+
+[data-testid="stMainBlockContainer"]{
+    
+    background-color:#e7ffe8;
+    border-radius: 5px;
+    height: 600px;
+    
+}
+
+[data-testid="stMarkdownContainer"]{
+    text-align: center;
+}
+
+/* Title and Subheader styling */
+h1 {
+    color: #526E48; 
+    text-align: center;
+}
+
+h2, h3 {
+    color: #62825D; 
+    text-align: center;
+}
+
+/* Text area styling */
+textarea {
+    border: 2px solid #526E48 !important;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+button {
+    background-color: #62825D !important;
+    color: white !important;
+    padding: 10px 20px;
+    border: none !important;
+    border-radius: 5px;
+    cursor: pointer;
+}
+[data-testid="stButton"]{
+    text-align: center;
+}
+
+button:hover {  
+    background-color: #526E48 !important; 
+}
+
+
+[data-testid="stSuccessMessage"] {
+    color: green !important; 
+}
+
+
+[data-testid="stErrorMessage"] {
+    color: red !important; 
+}
