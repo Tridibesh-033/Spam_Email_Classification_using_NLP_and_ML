@@ -38,6 +38,6 @@ This methodology ensures accurate, scalable, and user-friendly spam email classi
 
 ![image alt](https://github.com/Tridibesh-033/Spam_Email_Classification_using_NLP_and_ML/blob/main/Screenshot%20(210).png?raw=true)
 
-
+![image alt](https://github.com/Tridibesh-033/Spam_Email_Classification_using_NLP_and_ML/blob/main/Screenshot%20(211).png?raw=true)
 
 
