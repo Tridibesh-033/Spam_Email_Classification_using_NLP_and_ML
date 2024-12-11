@@ -30,5 +30,8 @@ Built a user-friendly interface using Streamlit.
 This methodology ensures accurate, scalable, and user-friendly spam email classification.
 
 
+## Streamlit User Application
+
+![image alt](https://github.com/Tridibesh-033/Spam_Email_Classification_using_NLP_and_ML/blob/main/Screenshot%20(209).png?raw=true)
 
 
