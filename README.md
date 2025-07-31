@@ -63,12 +63,11 @@ Built a user-friendly interface using Streamlit.
 ## 🖥️ How to Run Locally
 ### 1. Clone the Repository
 git clone https://github.com/Tridibesh-033/Spam_Email_Classification_using_NLP_and_ML.git
-cd Spam_Email_Classification_using_NLP_and_ML
 
-2. Install Dependencies
+### 2. Install Dependencies
 pip install -r requirements.txt
 
-3. Run the Streamlit App
+### 3. Run the Streamlit App
 streamlit run spam_detector_UI.py
 
 ### Streamlit User Application
